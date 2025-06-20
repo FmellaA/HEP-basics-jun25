@@ -1,7 +1,8 @@
 Hi!! 
-These are my notes from the HSF/IRIS-HEP Software Basics Training at CERN. It's pretty self explanatory. 
 
-Most of the notes are using **markdown** and so it would be easier for me, I used **jupyter notebooks**. 
+These are my notes from the **HSF/IRIS-HEP Software Basics Training at CERN.** It's pretty self explanatory. 
+
+Most of the notes are using **markdown**, and considering it's a programming workshop, I used **jupyter notebooks**. 
 
 A few immportant things that i must say!!
 * All of the material inside the 'material' directory is material given by the speakers, it was **not** written by me. It's just in this github so I can have everything in one place. 
